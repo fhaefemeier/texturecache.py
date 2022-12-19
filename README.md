@@ -1,3 +1,7 @@
+Change log
+==========
+* improve documentation
+
 texturecache.py
 ===============
 
