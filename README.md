@@ -1,6 +1,6 @@
 Change log
 ==========
-* 12/2022: improve documentation
+* 12/2022: improve documentation (FH)
 
 texturecache.py
 ===============
